@@ -1,0 +1,10 @@
+pandas==2.1.4
+geopandas==0.14.2
+shapefile==2.3.1
+numpy==1.26.2
+json==2.0.9
+ngram==4.0.3
+matplotlib==3.8.0
+seaborn==0.12.2
+sklearn==1.2.2
+kneed==0.8.5
