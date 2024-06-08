@@ -7,3 +7,4 @@ matplotlib==3.8.0
 seaborn==0.12.2
 scikit-learn==1.2.2
 kneed==0.8.5
+plotly==5.18.0
